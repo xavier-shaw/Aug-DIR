@@ -71,6 +71,7 @@ Jack is reading a new assigned paper for his class. The paper is about some nove
 
 Violet may be checking this paper out because it’s referenced in a paper she’s doing a deep dive on, or it has a new contribution she’s never heard of, and wants to check if it is relevant to her research. Jack may be checking this paper out because it’s been assigned for class, or it was related to a paper he was assigned for class and he wants more background knowledge.
 
+
 **Process map 2 (linear deep dive):**
 
 Violet likely needs to do this several times over the course of a literature review and thus would like to do them as efficiently as possible. Jack may do this for a deep critique of a paper and an attempt to broaden his knowledge.
@@ -79,12 +80,16 @@ Violet likely needs to do this several times over the course of a literature rev
 
 A problem statement should illuminate the core of the issue you observe. Often, there is a contrastive tension between what users want to do and what their current tools require them to do. If you cannot articulate this yet, describe why you think you are not able to converge yet, what promising directions to follow up with additional user research and feedback might be, and what steps you think you should take next.
 - Tip: Rely on your process map. What is it telling you about what users want to do vs. have to do?
+    - Users have various and dynamic purposes while reading.
+    - Users go back and forth a lot in the process map.
+        - Rereading sections to get a better understanding.
+        - Finding information in other sections or outside of the paper to help understand the content
+        - Comparing information in different sections.
 - Double check: Does your storyboard communicate/highlight this core tension?
 
 **Problem statement:**
 
-People from diverse backgrounds approach research papers with varying, evolving intentions, shaping their engagement. Existing tools to support reading and comprehension are fragmented and serve specific purposes, forcing users to switch between them. This disrupts focus, makes tracking evolving intentions challenging, and hinders recalling relevant information.
-[how to apply result/understanding from previous intention/stage to next intention/stage]
+When reading scientific papers, readers have various intentions that shape how they engage with the content. The complexity and technical nature of these papers make resolving each intention time-consuming and mentally demanding. As readers shift between intentions, they often lose track of what they’ve accomplished and learned, leading to repeated work.
 
 **4. [+1] Storyboard of how your proposed system could address the core problem. This is where you begin to imagine a prototype to address the core problem you identified.**
 
@@ -116,7 +121,7 @@ Remember, Understand, Apply, Analyze, Evaluate, Create
 - SciDaSynth: enables researchers to efficiently build structured knowledge bases from scientific literature at scale
 - Synergi: ties together user input of relevant seed threads with citation graphs and LLMs, to expand and structure them, respectively. Synergi allows scholars to start with an entire threads-and-subthreads structure generated from papers relevant to their interests, and to iterate and customize on it as they wish.
 
-[TODO: Add design spae figure]
+![design_space](figures/design_space.jpeg)
 
 ## Reflection [+3]
 
@@ -168,8 +173,6 @@ Make it multiple choice + some open ended questions
 [+1] Depth: Talk to a local LA startup about your project. I recommend 2 group members (max) in a meeting with an LA start up. Share the contact information for people you met with + notes you took during/after the meeting.
 
 [+2] Complete IRB training + submit an IRB to cover your project. Every team member must do this. Talk to the instructor about this.
-
-⬇️ Due Feb 14
 
 ## Communicate what you have learned [+2]
 
