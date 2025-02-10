@@ -6,7 +6,6 @@
 
 **Q1.** [+1] As a group, discuss any assumptions you have about your users or usage contexts. Consider aspects such as language, age, dis/ability, indoors/outdoors, alone vs. small group vs. family vs. large social gathering, etc. Write a summary of your discussion and a clear statement of your assumptions going into user research.
 
-
 During our initial discussions, our group hypothesized that our solution will primarily target students and academics. However, more specifically, our core assumption is that our users will fit in one of two main use cases. Firstly, we have students that want to develop a good initial understanding of the paper. This involves students who need to read a paper for a class, a research lab, or even their own personal projects. This use case heavily involves individuals who do not have a lot of experience reading papers or the topic being discussed in general. The second use case that we hypothesized would use our solution are individuals who are more specialized and experts in the field of research. This use case involves academics who want a deeper dive and understanding of the paper – including its methodology and results. We hypothesize that these experts would want to know how a paper arrived at a result, how a chart was constructed, or even a deeper dive into the math and statistical tools used in the paper.
 
 **Q2.** [+1] As a group, share any hunches you want to test or unknown/open-ended questions you want to answer through user research. Summarize your discussion, listing out 2-3 things you want to learn through user research.
@@ -23,7 +22,7 @@ The interview will allow us to ask closed questions about the user's background 
 
 On the other hand, the think-aloud study will allow us to see first-hand how different users interact with papers and identify common struggles between users when reading papers.
 
-**Q4.** [+1] Write your user research protocol. Consider the following: Recruitment strategy (e.g., whom to contact, how to contact, how many) 
+**Q4.** [+1] Write your user research protocol. Consider the following: Recruitment strategy (e.g., whom to contact, how to contact, how many)
 
 Since we have four group members, we aim to conduct our study on at least 10 people. We also aim to approach different interviewees with different backgrounds in terms of their education level and experience with research papers. We will be using our network to reach out to people to interview, and if we need more people, we will reach out to people in the general UCLA CS community.
 
@@ -36,6 +35,7 @@ We will be holding 2-3 interviews each, and each person will act as both the int
 ## Conducting user research [+5]
 
 Write and submit ~0.5-1p of notes for each user research session OR initial analysis of survey results. Here are some rough guidelines for how many users you should reach:
+
 - 10 users/groups of users for interviews
 - 25 users/responses for surveys
 - 5 users to conduct contextual inquiries that are at least 1 hour in duration
@@ -71,20 +71,24 @@ Jack is reading a new assigned paper for his class. The paper is about some nove
 
 Violet may be checking this paper out because it’s referenced in a paper she’s doing a deep dive on, or it has a new contribution she’s never heard of, and wants to check if it is relevant to her research. Jack may be checking this paper out because it’s been assigned for class, or it was related to a paper he was assigned for class and he wants more background knowledge.
 
+![process map 1](figures/pm1.png)
 
 **Process map 2 (linear deep dive):**
 
 Violet likely needs to do this several times over the course of a literature review and thus would like to do them as efficiently as possible. Jack may do this for a deep critique of a paper and an attempt to broaden his knowledge.
 
+![process map 2](figures/pm2.png)
+
 **3. [+1] Articulate a problem statement.**
 
 A problem statement should illuminate the core of the issue you observe. Often, there is a contrastive tension between what users want to do and what their current tools require them to do. If you cannot articulate this yet, describe why you think you are not able to converge yet, what promising directions to follow up with additional user research and feedback might be, and what steps you think you should take next.
+
 - Tip: Rely on your process map. What is it telling you about what users want to do vs. have to do?
-    - Users have various and dynamic purposes while reading.
-    - Users go back and forth a lot in the process map.
-        - Rereading sections to get a better understanding.
-        - Finding information in other sections or outside of the paper to help understand the content
-        - Comparing information in different sections.
+  - Users have various and dynamic purposes while reading.
+  - Users go back and forth a lot in the process map.
+    - Rereading sections to get a better understanding.
+    - Finding information in other sections or outside of the paper to help understand the content
+    - Comparing information in different sections.
 - Double check: Does your storyboard communicate/highlight this core tension?
 
 **Problem statement:**
@@ -93,13 +97,14 @@ When reading scientific papers, readers have various intentions that shape how t
 
 **4. [+1] Storyboard of how your proposed system could address the core problem. This is where you begin to imagine a prototype to address the core problem you identified.**
 
-[TODO]
+Attached under `/figures/storyboard.pdf`
 
 **5. DEPTH (optional, not required) [+1]:**
 
 Map out a design space of existing tools (production or research) for supporting similar tasks x users x domains. Your design space should include at least five other comparable tools.
 
 **Intentions:**
+
 1. Skim for Overview – Quickly grasp the main idea and decide relevance.
 2. Comprehend Key Concepts – Build a solid understanding of the central theories, methods, or results.
 3. Retrieve Specific Information – Locate targeted details like data, equations, or results.
@@ -108,12 +113,14 @@ Map out a design space of existing tools (production or research) for supporting
 6. Synthesize Ideas – Connect the content to existing knowledge and generate new insights.
 
 **Dimensions (Bloom’s taxonomy):**
+
 - Knowledge Dimension (concrete -> abstract)
-Factual, Conceptual, Procedural, Metacognitive
+  Factual, Conceptual, Procedural, Metacognitive
 - Cognitive Processes Dimension (cognitive complexity)
-Remember, Understand, Apply, Analyze, Evaluate, Create
+  Remember, Understand, Apply, Analyze, Evaluate, Create
 
 **Tools:**
+
 - SCIM: supports the skimming process by highlighting salient paper contents in order to direct a reader’s attention.
 - Qlarify: recursively expandable abstracts, a novel interaction paradigm that dynamically expands abstracts by progressively incorporating additional information from the papers’ full text.
 - ScholarPhi: bring definitions of technical terms and symbols to readers when and where they need them most
@@ -163,7 +170,7 @@ Each member in the group who participates in the below will receive the depth po
 
 - Use to get more data about personas + scenarios. Ask for background and common intentions/reasons for reading paper. Whats the most important info you are looking for.
 - Also ask about tools they use (to help with design space)
-Make it multiple choice + some open ended questions
+  Make it multiple choice + some open ended questions
 - Example
 
 [+1] Meet with a community partner + come up with a plan for continued engagement with them.
