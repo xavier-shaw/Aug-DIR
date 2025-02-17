@@ -16,4 +16,5 @@ Our observations revealed two reading processes participants had while reading a
 
 - **Skimming**. Participants sought to gain a high-level understanding of the paper and its key sections. This process involved quickly scanning the title, abstract, figures, and section headings to grasp the paper’s main contributions, structure, and relevance to their interests. Skimming allowed participants to decide whether a section or a paper warranted deeper engagement.
 - **Deep-diving**. When participants encountered specific information of interest, they engaged in a more focused and analytical reading process. This included highlighting key details, generating hypotheses, comparing insights with prior knowledge, seeking external references, and, in some cases, testing the information themselves. Deep-diving was often triggered by gaps in understanding, the need for validation, or a desire to apply the paper’s insights to their own work.
+
 These two reading processes were not strictly separate; rather, participants often alternated between skimming and deep-diving based on their evolving information needs.
