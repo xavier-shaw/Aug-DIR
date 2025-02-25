@@ -12,6 +12,7 @@ The above cognitive goals will be used as examples for new scenarios.
 
 # Create a paper prototype. Take + upload pictures or a video of your paper prototype.
 
+[Paper prototype](https://drive.google.com/file/d/1zxHY7KV0yLztl7lwCUNvVVLrkEAa6Q2f/view?usp=sharing)
 [Figma prototype](https://www.figma.com/design/uzOCvWy2yBI3iTuMX57TO8/prototype?node-id=0-1&t=oNajR2pkllFLbl40-1)
 
 # Summarize 1-3 takeaways from the feedback you received in class.
