@@ -1,0 +1,126 @@
+user,highlight,cognitiveGoal,cognitiveGoalIndex,unit,type,connections
+Tianyou Wang,gaps,FIRST,0,TERM,Challenges,
+Tianyou Wang,explantory study of analysts using a domain-specific...,FIRST,1,PASSAGE,Study,
+Tianyou Wang,reflect on their implicit understanding of the domain and consider…,METHOD,0,PASSAGE,Study,
+Tianyou Wang,analysts' domain knowledge,METHOD,1,TERM,Study,
+Tianyou Wang,conceptual models,METHOD,2,TERM,Design,
+Tianyou Wang,software tools exist for building conceptual models,METHOD,3,PHRASE,Tools,
+Tianyou Wang,external (goal(i),METHOD,4,TERM,Challenges,M6
+Tianyou Wang,which implicit assumptions are important,METHOD,5,PHRASE,Challenges,
+Tianyou Wang,express,METHOD,6,TERM,Design,M4
+Tianyou Wang,for- mulate,METHOD,7,TERM,Design,
+Tianyou Wang,statistical non-experts.,METHOD,8,TERM,Study,
+Tianyou Wang,omain-specific language (dsl) f,METHOD,9,TERM,Design,
+Tianyou Wang,tisane consists of (i) a dsl for expressing conceptual models…,METHOD,10,PASSAGE,Tools,
+Tianyou Wang,asy f,METHOD,11,,Challenges,
+Tianyou Wang,guide,METHOD,12,TERM,Challenges,
+Tianyou Wang,"ntents,",METHOD,13,,,
+Sophie Liu,it remains unclear what analysts want to express and how…,FIRST,0,PASSAGE,Challenges,M0
+Sophie Liu,for expressing conceptual models augmented with an interactive disambiguations process,FIRST,1,PHRASE,Design,
+Sophie Liu,enabled some analysts to author statistical models they were unable…,FIRST,2,PASSAGE,Impact,
+Sophie Liu,nsider a health policy researcher interested in accurately estimating the…,FIRST,3,PASSAGE,Study,M1
+Sophie Liu,to accurately externalize their implicit conceptual models,FIRST,4,PHRASE,Challenges,
+Sophie Liu,analysts need uid- ance on whic implicit assumptions are important…,FIRST,5,PASSAGE,Challenges,
+Sophie Liu,obtain high-quality statistical inferences,FIRST,6,PHRASE,Challenges,M1
+Sophie Liu,we start with an exploratory study to identify challenges sta…,METHOD,0,PASSAGE,Challenges,F0
+Sophie Liu,rtisane consists of (i) a dsl for expressing conceptual models…,METHOD,1,PASSAGE,Challenges,"F3,F6"
+Shimin Luo,"in order to answer research questions and test hypothesis, ana-...",FIRST,0,PASSAGE,Challenges,
+Shimin Luo,understanding of the domain,FIRST,1,PHRASE,Study,F2
+Shimin Luo,represent this conceptual knowledge in a statistical model.,FIRST,2,PHRASE,Design,"F1, F3"
+Shimin Luo,process models [20] or conceptual mo-el [...,FIRST,3,PASSAGE,Tools,"F2,M0"
+Shimin Luo,analysts must be able to accurately externalize their implicit conceptual…,FIRST,4,PASSAGE,Challenges,
+Shimin Luo,tools should make it easy for analysts to express their…,FIRST,5,PASSAGE,Challenges,
+Shimin Luo,analysts need guid- ance on which implicit assumptions are important…,FIRST,6,PASSAGE,Challenges,"F7,M0"
+Shimin Luo,tools must for- mulate statistical models,FIRST,7,PHRASE,Design,F6
+Shimin Luo,fidelity of the statistical model to the conceptual model,FIRST,8,PHRASE,Impact,
+Shimin Luo,good statistical model fit to data,FIRST,9,PHRASE,Impact,
+Shimin Luo,rtisane consists of (i) a dsl for expressing conceptual models…,FIRST,10,PASSAGE,Tools,M3
+Shimin Luo,this paper investigates how to support both accurate concep- tual…,METHOD,0,PASSAGE,Impact,"F3,F6"
+Shimin Luo,design and implementation of a doman-specific language (dsl) for expressing…,METHOD,1,PASSAGE,Design,
+Shimin Luo,an exploratory study to identify challenges sta-tistical non-experts face…,METHOD,2,PASSAGE,Study,
+Shimin Luo,"develop rtisane, a system for exterinalizing concep- tual mo",METHOD,3,PHRASE,Tools,F10
+Shimin Luo,compare rtisane to a scaffolde,METHOD,4,PHRASE,Tools,
+Megan Pai,to answer research questions,METHOD,0,PHRASE,Study,
+Megan Pai,test hypotheses,METHOD,1,PHRASE,Study,
+Megan Pai,translate,METHOD,2,TERM,Design,
+Megan Pai,into statistical models,METHOD,3,PHRASE,Design,
+Megan Pai,tisane,METHOD,4,TERM,Tools,
+Megan Pai,enables analysts to explicate their conceptual models and,METHOD,5,PHRASE,Tools,
+Megan Pai,two usability challenges,METHOD,6,PHRASE,Challenges,
+Megan Pai,tools should not hinder specification,METHOD,7,PHRASE,Challenges,
+Megan Pai,which implicit assumptions are important to externalize,METHOD,8,PHRASE,Challenges,
+Megan Pai,"to ensure quality, there are two challenges to statistical model",METHOD,9,PHRASE,Challenges,
+Megan Pai,fidelity of the statistical model to the conceptual model,METHOD,10,PHRASE,Challenges,
+Megan Pai,good statistical model fit to data.,METHOD,11,PHRASE,Challenges,
+Megan Pai,this paper investigates how to suppor both accurate concep -tual…,METHOD,12,PASSAGE,Impact,
+Megan Pai,we focus on the design and implementation of a domain-specific…,METHOD,13,PASSAGE,Impact,
+Megan Pai,analysts want to specify how variables relate causally,METHOD,14,PHRASE,Impact,
+Megan Pai,analysts also want to express ambiguity in their con -...,METHOD,15,PASSAGE,Design,
+Megan Pai,"based on these findings, we develop rtisane, a system for…",METHOD,16,PASSAGE,Design,
+Megan Pai,(i) a dsl,METHOD,17,TERM,Study,
+Megan Pai,(ii) a two- phase interactive disambiguation process for refining conceptual…,METHOD,18,PHRASE,Challenges,
+Justin Sheu,a researcher who skips this process may overlook relevant con-…,FIRST,0,PASSAGE,Study,
+Justin Sheu,conceptual models include variables and their relationships that are important…,FIRST,1,PASSAGE,Study,M1
+Justin Sheu,this paper investigates how tos support both accurate concep- tual…,FIRST,2,PASSAGE,Tools,
+Justin Sheu,rtisane consists of (i) a dsl for expressing conceptual models…,FIRST,3,PASSAGE,Tools,
+Justin Sheu,we prioritize correspondence of conceptual models to statistical models and…,METHOD,0,PASSAGE,Tools,
+Justin Sheu,we start with an exploratory study to identify challenges sta-…,METHOD,1,PASSAGE,Impact,F1
+Justin Sheu,"based ont hese findings, we develop rtisane, a system for…",METHOD,2,PASSAGE,Design,
+Justin Sheu,o assess the impact of rtisane on ceptual model speci-…,METHOD,3,PASSAGE,Study,
+Jack Rieger,order to answer research questions and test hypotheses.,FIRST,0,PHRASE,Design,
+Jack Rieger,"analysts externalize conceptual models, tools must for-",FIRST,1,PHRASE,Tools,
+Jack Rieger,this paper investigates how to support both accurate conceptual…,METHOD,0,PASSAGE,Tools,
+Jack Rieger,we start with an exploratory study to identify challenges sta-,METHOD,1,PHRASE,Tools,
+Jack Rieger,"based on these findings, we develop rtisane, a system for…",METHOD,2,PASSAGE,Tools,
+Jack Rieger,to assess the impact of rtisane on conceptual model speci…,METHOD,3,PASSAGE,Impact,
+Jack Rieger,"n summary, we contribute 1. a study identifying how statistica",METHOD,4,PHRASE,Study,
+Ivan Sit,domain-specific language (dsl),FIRST,0,TERM,Study,
+Ivan Sit,"rtisane,",FIRST,1,TERM,Study,
+Ivan Sit,"statistical model,",FIRST,2,TERM,Challenges,"F4,F8"
+Ivan Sit,covariates,FIRST,3,TERM,Challenges,
+Ivan Sit,confounding,FIRST,4,TERM,Challenges,F2
+Ivan Sit,process models,FIRST,5,TERM,Challenges,
+Ivan Sit,dagitty,FIRST,6,TERM,Challenges,
+Ivan Sit,dowhy,FIRST,7,TERM,Challenges,
+Ivan Sit,inferences,FIRST,8,TERM,Tools,"F2,F9"
+Ivan Sit,correspondence,FIRST,9,TERM,Tools,F8
+Ivan Sit,generalized linear modeling,FIRST,10,TERM,Tools,
+Ivan Sit,graphical user interface (gui),FIRST,11,TERM,Tools,
+Ivan Sit,to assess the impact of rtisane on conceptual model speci-...,METHOD,0,PASSAGE,Tools,
+Ivan Sit,rtisane consists of (i) a dsl for expressing conceptual models…,METHOD,1,PASSAGE,Tools,
+Ivan Sit,exploratory study,METHOD,2,PHRASE,Impact,
+Gavin Wong,"to do so accurately, analysts need to reflect on their...",FIRST,0,PASSAGE,Study,
+Gavin Wong,"they consider prior work on how insurance coverage, race, education,...",FIRST,1,PASSAGE,Study,
+Gavin Wong,may overlook relevant con- ceptual relationships or implicit assumptions,FIRST,2,PHRASE,Study,
+Gavin Wong,"first, tools should make i easy for analysts to express...",FIRST,3,PASSAGE,Challenges,
+Gavin Wong,"second, analysts need guid- ance on which implicit assumptions are...",FIRST,4,PASSAGE,Challenges,
+Gavin Wong,tools must for- mulate statistical models (goal (ii)),FIRST,5,PHRASE,Challenges,
+Gavin Wong,domain-specific language (dsl),FIRST,6,TERM,Challenges,M0
+Gavin Wong,we find that analysts want to specify how variables relate...,FIRST,7,PASSAGE,Challenges,
+Gavin Wong,a study identifying how statistical non-experts want and are capable...,FIRST,8,PASSAGE,Design,
+Gavin Wong,"the open-source rtisane stem1 , which provides new lan- guage...",FIRST,9,PASSAGE,Impact,
+Gavin Wong,t how tool sup- port for externalizing conceptual models to...,FIRST,10,PASSAGE,Impact,M2
+Gavin Wong,a dsl for expressing conceptual models,METHOD,0,PHRASE,Tools,F6
+Gavin Wong,two- phase interactive disambiguation process for refining conceptual models and...,METHOD,1,PASSAGE,Impact,
+Gavin Wong,to assess the impact of rtisane on conceptual model speci-...,METHOD,2,PASSAGE,Impact,F10
+London Bielicke,analysts need to reflect on their implicit understanding of the domain...,FIRST,0,PASSAGE,Study,
+London Bielicke,a researcher who skips this process may overlook relevant con-...,FIRST,1,PASSAGE,Design,
+London Bielicke,conceptual models include variables and their relationships that are important...,FIRST,2,PASSAGE,Impact,M2
+London Bielicke,tisane has helped hci researchers catch and fix analysis bugs prior to...,FIRST,3,PASSAGE,Tools,
+London Bielicke,"to benefit from these tools, analysts must be able to accurately externalize...",FIRST,4,PASSAGE,Study,
+London Bielicke,"to ensure quality, there are two challenges to statistical model formulation...",FIRST,5,PASSAGE,Design,
+London Bielicke,"as another example, a statistical model representing an unreasonable...",FIRST,6,PASSAGE,Tools,
+London Bielicke,we focus on dsl design since end-users and graphical systems alike can...,FIRST,7,PASSAGE,Tools,M0
+London Bielicke,generalized linear models (GLMs),FIRST,8,PASSAGE,Study,
+London Bielicke,"of 13 analysts, three were only able to author a statistical model by using...",FIRST,9,PASSAGE,Tools,M3
+London Bielicke,we compare rtisane to a scaffolded workflow in a within-subjects controlled...,METHOD,0,PASSAGE,Challenges,F7
+London Bielicke,we focus on the design and implementation of a domain-specific…,METHOD,1,PASSAGE,Tools,
+London Bielicke,we start with an exploratory study to identify challenges sta-tistically...,METHOD,2,PASSAGE,Tools,F2
+London Bielicke,rtisane leverages an informative graphical user interface (GUI) for...,METHOD,3,PASSAGE,Impact,F9
+Unknown User,(1) how do we elicit the information necessary for...,FIRST,0,PASSAGE,Tools,M0
+Unknown User,provides a study design specificaion language for expressing relationships between...,FIRST,1,PASSAGE,Tools,"F2,M0"
+Unknown User,nteractive compilation enables analysts to focus on their primary variables...,FIRST,2,PASSAGE,Tools,F1
+Unknown User,currenty lack tool support for recording and reasoning about...,METHOD,0,PASSAGE,Impact,"F0,F1"
+Unknown User,"present tisane, a mixed initiative system for authoring genralized...",METHOD,1,PASSAGE,Tools,
+Unknown User,"case studies with three researchers, we find that tisane helps...",METHOD,2,PASSAGE,Study,M3
+Unknown User,"to model county-level and hospital level attributes, the researchers may",METHOD,3,PASSAGE,Impact,M2
